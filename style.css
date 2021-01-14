@@ -1,0 +1,34 @@
+.penguin-homepage-height{
+    height: 100vh;
+    background-color: rgb(145, 205, 255);
+}
+.penguin-slider1{
+    background-color: rgb(255, 252, 86);
+}
+.penguin-slider2{
+    background-color: rgb(97, 204, 207);
+}
+.penguin-slider3{
+    background-color: rgb(143, 255, 121);
+}
+.penguin-card-img{
+    max-height: 400px;
+    min-height: 200px;
+    background-color: lightgrey;
+}
+.penguin-slider-img{
+    max-height: 600px;
+}
+.penguin-slider-background{
+    background-color: linen;
+}
+.man-fashion{
+    background-color: rgb(255, 198, 243);
+}
+.penguin-about img{
+    max-width: 75px;
+    max-height: 75px;
+}
+.penguin-contact{
+    background-color: lightskyblue;
+}
