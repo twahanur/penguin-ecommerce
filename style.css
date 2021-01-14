@@ -32,3 +32,10 @@
 .penguin-contact{
     background-color: lightskyblue;
 }
+.penguin-nav{
+    margin-left: auto;
+}
+.btn img{
+    height:30%;
+    width: 30%;
+}
